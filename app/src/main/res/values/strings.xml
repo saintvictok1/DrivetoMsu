@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrivetoMsu</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_description">
+        This application contains a button that will open Google Maps and show the route to Montclair
+        State University when clicked. Press Button to go.</string>
+
+</resources>
